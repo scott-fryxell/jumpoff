@@ -1,3 +1,4 @@
+@require '../variables'
  details
   & > summary
     cursor: pointer
@@ -6,7 +7,7 @@
     &::-webkit-details-marker
       display:none
   & > *:not(summary)
-    animation-name: slideOutLeft    
+    animation-name: slideOutLeft
   &[open]
     border: none
     border-color: transparent

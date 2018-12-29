@@ -4,7 +4,7 @@
   "description": "A starting place for build web sites and web applications with vue, stylus and node",
   "scripts": {
     "dev": "harp server ./public",
-    "build": "harp compile ./public --output ../dist"
+    "build": "harp compile ./public --output ../../scott-fryxell.github.io"
   },
   "repository": {
     "type": "git",
