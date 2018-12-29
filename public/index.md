@@ -13,7 +13,7 @@ Then we got the president fakery deserves. A man who could only win in a social 
 
 His whole point was that everyone is a liar, all the rich kids in charge were fake too, selfish too, in it for themselves. You might as well hire an honest fake to call bullshit. Looking at my industry I couldn't say that he was wrong.
 
-That pissed me off. and so I got to work. [realness.online](https://realness.online) is my answer.
+That pissed me off. and so I got to work. [realness](https://realness.online) is my answer.
 
 ### Here is what you can do with realness so far
 - You can post updates
