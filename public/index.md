@@ -1,8 +1,9 @@
+# Realness
 Its just, I hate it when rich kids win and everyone just assumes they know better.
 
 It's been my experience that rich kids are as narrow minded and average as the rest of us. They are fallible, they guess and use their resources to paper over any mistakes that bubble to the surface. Depth is not natural for them.
 
-Basically, what I'm saying is – they don't know how to help.
+Basically, what I'm saying is – **they don't know how to help.**
 
 I walked away from startup land in 2015. I couldn't handle how fake the people had become. I spent a year in a hopeless death spiral. I couldn't do it. I couldn't pretend the march of bullshit through my industry was healthy. The tech gold rush had won. All I saw around me was greed and artificial caring.
 
@@ -10,11 +11,9 @@ The people that did care had been conned by the Harvard kids into using their ta
 
 Then we got the president fakery deserves. A man who could only win in a social media landscape that advantaged him.
 
-His whole point was that everyone is a liar, all the rich kids in charge were fake too, selfish too, in it for themselves.
+His whole point was that everyone is a liar, all the rich kids in charge were fake too, selfish too, in it for themselves. You might as well hire an honest fake to call bullshit. Looking at my industry I couldn't say that he was wrong.
 
-You might as well hire an honest fake to call bullshit. Looking at my industry I couldn't say that he was wrong.
-
-That pissed me off. and so I got to work. realness.online is my answer.
+That pissed me off. and so I got to work. [realness.online](https://realness.online) is my answer.
 
 ### Here is what you can do with realness so far
 - You can post updates
@@ -37,7 +36,7 @@ Realness is a social network that's more like a tool than a popularity contest. 
 
 There are no likes. There are no friend counts, There are no comments. You text your friends directly when they post something that moves you.
 
----
+# Real talk
 
 The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation, We're only doing what our users know is happening to them already.
 
@@ -61,5 +60,4 @@ I want to use my social network to know where to be and when to be there. I want
 
 [https://patreon.com/scottfryxell](https://patreon.com/scottfryxell)
 
-- Scott Fryxell
-January 1 2019
+**Scott Fryxell, January 2019**
