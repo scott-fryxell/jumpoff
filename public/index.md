@@ -3,9 +3,9 @@ Its just, I hate it when rich kids win and everyone just assumes they know bette
 
 It's been my experience that rich kids are as narrow minded and average as the rest of us. They are fallible, they guess and use their resources to paper over any mistakes that bubble to the surface. Depth is not natural for them.
 
-Basically, what I'm saying is – **they don't know how to help.**
+Basically, what I'm saying is – **They don't know how to help.**
 
-I walked away from startup land in 2015. I couldn't handle how fake the people had become. I spent a year in a hopeless death spiral. I couldn't do it. I couldn't pretend the march of bullshit through my industry was healthy. The tech gold rush had won. All I saw around me was greed and artificial caring.
+I walked away from startup land in 2015. I couldn't handle how fake the people had become. I felt abandoned and disconnected. I could't take their money any longer. So I spent a couple years in a hopeless death spiral. I couldn't do it. I couldn't pretend the march of bullshit through my industry was healthy. The tech gold rush had won. All I saw around me was greed and artificial caring. It wasn't worth it anymore.
 
 The people that did care had been conned by the Harvard kids into using their talent for Mark Zuckerberg's 'vision' of a connected world. There was nothing to do but get off the ride.
 
@@ -15,7 +15,7 @@ His whole point was that everyone is a liar, all the rich kids in charge were fa
 
 That pissed me off. and so I got to work. [realness](https://realness.online) is my answer.
 
-### Here is what you can do with realness so far
+### What you can do with realness
 - You can post updates
 - You can sign up with your phone
 - You can take a selfie and create an avatar
@@ -23,7 +23,7 @@ That pissed me off. and so I got to work. [realness](https://realness.online) is
 - You can add those people  
 - You can view a feed of what those people want to say
 
-### Here's what I know about realness from using it
+### What I know about realness from using it
 - I post a lot less
 - What I do post is genuine
 - I check it a lot less
@@ -38,7 +38,7 @@ There are no likes. There are no friend counts, There are no comments. You text 
 
 # Real talk
 
-The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation, We're only doing what our users know is happening to them already.
+The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation. We're just doing what our users accept is happening.
 
 Thats how you justify yourself into a nice home and a sick Audi.
 
@@ -50,7 +50,7 @@ We don't have that world today do we? Even though the best and the brightest hav
 
 I don't want my social network to use my desire for connection against me.
 
-I don't want be socially engineered. I don't want to become a walking resume. I don't want a social network overflowing with anxiety where the most dramatic people are the loudest voices.
+I don't want be socially engineered. I don't want to become a walking resume. I don't want a social network overflowing with anxiety where the most dramatic people have the loudest voices.
 
 I want a social network to tell everyone that I am okay, That I need time alone, but I love them and that our time together buoys me.
 
