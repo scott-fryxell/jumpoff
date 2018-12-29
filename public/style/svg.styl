@@ -1,0 +1,21 @@
+@require 'variables'
+svg
+  height: (base-line * 2)
+  width: (base-line * 2)
+  overflow: auto
+  outline:none
+  display: block
+  fill: black
+  stroke-width: 0
+  &:active
+    animation-name: button_click
+svg.working
+  width: base-line * 3.3
+  height: base-line
+  margin: auto
+  margin-top: base-line
+  animation-name: working
+  animation-timing-function: linear
+  animation-duration: 3.33s
+  animation-delay: 0
+  animation-iteration-count: infinite

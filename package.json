@@ -1,0 +1,25 @@
+{
+  "name": "jumpoff",
+  "version": "0.0.1",
+  "description": "A starting place for build web sites and web applications with vue, stylus and node",
+  "scripts": {
+    "dev": "harp server ./public",
+    "build": "harp compile ./public --output ../dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-fryxell/jumpoff.git"
+  },
+  "keywords": [
+    "web", "develelopment", "vue", "stylus", "javascript", "es6", "markdown"
+  ],
+  "author": "Scott Fryxell",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/scott-fryxell/jumpoff/issues"
+  },
+  "homepage": "https://github.com/scott-fryxell/jumpoff#readme",
+  "dependencies": {
+    "harp": "^0.29.0"
+  }
+}

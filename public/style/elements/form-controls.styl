@@ -1,0 +1,53 @@
+form
+  display: flex
+  flex-direction: column
+  justify-content: space-around
+
+fieldset
+  standard-border: black
+  padding: (base-line / 2 )
+  overflow: hidden
+menu
+  display: flex
+  justify-content: space-between
+
+
+input
+textarea
+[contenteditable]
+  user-select: text
+
+input
+textarea
+  border-color: transparent
+  background-color: transparent
+  &:disabled
+    opacity:1
+    user-select: none
+    -webkit-text-fill-color: black
+    color:black
+
+button
+input
+textarea
+  appearance:none
+  -webkit-tap-highlight-color: inherit
+  tap-highlight-color: inherit
+  outline: inherit
+  text-rendering: inherit
+  font: inherit
+  font-family: inherit
+  font-size: inherit
+  font-weight: inherit
+  color: inherit
+
+input:focus
+  transition-property: all
+
+button
+  standard-button: black
+  background-color: inherit
+  vertical-align: middle
+  text-transform:capitalize
+  &:disabled
+    standard-button: lighten(black, 30%)

@@ -1,0 +1,109 @@
+// Tie the layout of the page together via a fluid font-size
+// this design invests in the certainty of infinite device sizes over time.
+
+// Goals
+//   font-size that matches any device width
+//
+//   Line length supports readability
+//
+//   Heading size based on a modular scale
+//
+//   Vertical rhytym with a common baseline
+//
+// implementation from:
+//   https://www.smashingmagazine.com/2016/05/fluid-typography/
+
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+// ***************** fluid-typography *****************************************
+html
+  font-family: 'Lato'
+  between: font-size, min-font, max-font, min-screen, max-screen
+  font-smoothing: antialiased
+  text-rendering: optimizeLegibility
+  color:black
+  background-color: white-background
+
+@media (prefers-color-scheme: dark)
+  html
+    background-color: rgb(23, 24, 28)
+    color: rgba(246, 250, 253, 0.69)
+
+p, textarea, input,  blockquote, form, img, menu
+  between: max-width, round(base-line * 25, 3), round(base-line * 25, 3)
+
+// ***************** modular-scale ********************************************
+$h1-max = round(max-modular ** 4 * 1rem, 3) // 2.441
+$h1-min = round(min-modular ** 4 * 1rem, 3) // 1.602
+
+$h2-max = round(max-modular ** 3 * 1rem, 3) // 1.953
+$h2-min = round(min-modular ** 3 * 1rem, 3) // 1.424
+
+$h3-max = round(max-modular ** 2 * 1rem, 3) // 1.563
+$h3-min = round(min-modular ** 2 * 1rem, 3) // 1.266
+
+$h4-max = round(max-modular * 1rem, 3) // 1.25
+$h4-min = round(min-modular * 1rem, 3) // 1.125
+
+$h5-min= 1rem
+$h5-max= 1rem
+
+$h6-max= round(1rem / max-modular, 3) //.8
+$h6-min= round(1rem / min-modular, 3) //.888
+
+h1
+  between: font-size, $h1-min, $h1-max
+h2
+  between: font-size, $h2-min, $h2-max
+h3
+  between: font-size, $h3-min, $h3-max
+h4
+  between: font-size, $h4-min, $h4-max
+h5
+  between: font-size, $h5-min, $h5-max
+h6
+  between: font-size, $h6-min, $h6-max
+
+// ***************** vertical-rhythm ******************************************
+
+// At least 2 baselines high
+p
+  line-height: base-line
+  margin-bottom: base-line
+
+h1,h2,h3,h4,h5,h6
+  letter-spacing: -.04em
+  font-weight: normal
+  margin-bottom: base-line
+  line-height: 1em
+  // text-transform: capitalize
+h3,h4,h5,h6
+  letter-spacing: -.01em
+
+
+// Four baselines high
+h1,h2,h3
+  margin-top: s('calc( (%s - %s) + %s * 2)', base-line, 1em, base-line)
+
+// Three baselines high
+h4,h5
+  margin-top: s('calc( (%s - %s) + %s * 1)', base-line, 1em, base-line)
+
+// Two baselines high
+h6
+  margin-top: s('calc( (%s - %s) )', base-line, 1em)
