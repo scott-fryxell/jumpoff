@@ -38,13 +38,13 @@ Go to [realness.online](https://realness.online) on your phone to use it, and [p
 
 # Real talk
 
-The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation. We're just doing what our users accept is happening. Thats how you justify yourself into a nice home and a sick Audi.
+The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation. We're just doing what our users accept is happening.
 
-This is not the internet that I signed up for.
+Thats how you justify yourself into a nice home and a sick Audi.
 
-What I saw back in the 90's were people that wanted to build an internet for everyone. I hate to say it now, but I believed in that internet.
+This is not the internet that I signed up for. What I saw back in the 90's were people that wanted to build an internet for everyone. I hate to say it now, but I believed in that internet.
 
-We wanted to make knowledge available so that everyone could feel what it's like to live an intellectually engaged life. That future seemed thrilling to me, a poor kid, with nowhere to go.
+We wanted to make knowledge available so that everyone could feel what it's like to live an intellectually engaged life. That future seemed thrilling to me – a poor kid, with nowhere to go.
 
 We don't have that world today do we? Even though the best and the brightest have bad a generation and a half to figure it out.  They just went for that advertising money, and told us all our music was worth 0.086 pennies a listen. They are doing the same thing their parents did – hoarding all the opportunity for themselves, shrinking the pie so that they can get a bigger slice.  
 
