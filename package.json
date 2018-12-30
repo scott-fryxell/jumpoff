@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "description": "A starting place for build web sites and web applications with vue, stylus and node",
   "scripts": {
-    "dev": "harp server ./public",
-    "build": "harp compile ./public --output ../../scott-fryxell.github.io"
+    "dev": "harp server ./",
+    "build": "harp compile ./ --output ../../scott-fryxell.github.io"
   },
   "repository": {
     "type": "git",
