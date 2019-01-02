@@ -1,5 +1,5 @@
 # Realness
-Its just, I hate it when rich kids win and everyone just assumes they know better.
+It's just, I hate it when rich kids win and everyone just assumes they know better.
 
 It's been my experience that rich kids are as narrow minded and average as the rest of us. They are fallible. They guess and use their resources to paper over any mistakes that bubble to the surface. Depth is not natural for them.
 
