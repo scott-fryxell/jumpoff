@@ -15,17 +15,17 @@ His whole point was that everyone is a liar, all the rich kids in charge were fa
 
 That pissed me off, and so I got to work. [Realness](https://realness.online) is what I came up with.
 
-### What you can do with realness
+### What you can do with Realness
 - You can post updates
 - You can sign up with your phone
 - You can take a selfie and create an avatar
-- You can look for people you may know on realness
+- You can look for people you may know on Realness
 - You can add those people  
 - You can view a feed of what those people want to say
 
 There are no likes. There are no friend counts, There are no comments. You text your friends directly when they post something that moves you.
 
-### What I know about realness from using it
+### What I know about Realness from using it
 - I post a lot less
 - What I do post is genuine
 - I check it a lot less
