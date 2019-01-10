@@ -46,7 +46,7 @@ This is not the internet that I signed up for. What I saw back in the 90's were 
 
 We wanted to make knowledge available so that everyone could feel what it's like to live an intellectually engaged life. That future seemed thrilling to me – a poor kid, with nowhere to go.
 
-We don't have that world today do we? Even though the best and the brightest have had a generation and a half to figure it out. They just went for that advertising money, and told us all our music was worth 0.086 pennies a listen.  – hoarding all the opportunity for themselves; shrinking the pie so that they can get a bigger slice.  
+We don't have that world today do we? Even though the best and the brightest have had a generation and a half to figure it out. They just went for that advertising money, and told us our music was worth 0.086 pennies a listen.  – hoarding all the opportunity for themselves; shrinking the pie so that they can get a bigger slice.  
 
 I don't want my social network to use my desire for connection against me.
 
