@@ -1,6 +1,6 @@
 {
   "name": "jumpoff",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A starting place for build web sites and web applications with vue, stylus and node",
   "scripts": {
     "dev": "harp server ./public",
