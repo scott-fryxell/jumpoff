@@ -1,4 +1,4 @@
-[Here's a video of realness in action](https://youtu.be/2-FrXdxInYg)
+[Here's a video of realness in action](https://youtu.be/lJv8ByvKJBc)
 
 [typography.styl](https://github.com/scott-fryxell/realness/blob/master/src/style/typography.styl) Is the UI foundation for realness. It sets up a baseline that allows me to add UI elements that flow and line up by in a modern typographically natural way.  Text is readable and flows well. the font sized its mapped to the display size. I could go on...
 
