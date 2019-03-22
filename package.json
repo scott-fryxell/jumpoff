@@ -1,9 +1,9 @@
 {
   "name": "jumpoff",
-  "version": "0.0.2",
-  "description": "A starting place for build web sites and web applications with vue, stylus and node",
+  "version": "0.0.3",
+  "description": "A starting place for building user interfaces",
   "scripts": {
-    "dev": "harp server ./public",
+    "serve": "harp server ./public",
     "build": "harp compile ./public --output ~/github/scott-fryxell.github.io"
   },
   "repository": {
