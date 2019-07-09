@@ -36,7 +36,7 @@ There are no likes. There are no friend counts, There are no comments. You text 
 
 Realness is a social network that's more like a tool than a popularity contest. It uses your phone number, so you get messaging, group text built in.  All of your information stays on your phone. I don't even know who your friends are. What is shared on the network are your posts and a simple profile for people to find you.
 
-Go to [realness.online](https://realness.online) on your phone to use it, and [patreon.com/scottfryxell](https://patreon.com/scottfryxell) to give it a helping hand
+Go to [realness.online](https://realness.online) on your phone to use it, and [patreon.com/scottfryxell](https://patreon.com/scottfryxell) to support my efforts to build it
 
 # Real talk
 
