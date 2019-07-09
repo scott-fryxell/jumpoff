@@ -1,17 +1,9 @@
 @require '../variables'
 form
+  width: 100%
   display: flex
   flex-direction: column
   justify-content: space-around
-
-fieldset
-  standard-border: black
-  padding: (base-line / 2 )
-  overflow: hidden
-menu
-  display: flex
-  justify-content: space-between
-
 
 input
 textarea
@@ -27,13 +19,11 @@ textarea
     user-select: none
     -webkit-text-fill-color: black
     color:black
-
 button
 input
 textarea
   appearance:none
   -webkit-tap-highlight-color: inherit
-  tap-highlight-color: inherit
   outline: inherit
   text-rendering: inherit
   font: inherit
@@ -45,10 +35,15 @@ textarea
 input:focus
   transition-property: all
 
+label
+  font-weight: 300
+
 button
   standard-button: black
-  background-color: inherit
-  vertical-align: middle
-  text-transform:capitalize
-  &:disabled
-    standard-button: lighten(black, 30%)
+
+fieldset
+  padding: (base-line / 2 )
+  overflow: hidden
+  standard-border: black
+  @media (prefers-color-scheme: dark)
+    standard-border: white

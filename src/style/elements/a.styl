@@ -1,25 +1,23 @@
 @require '../variables'
-
-a, a > svg
+a
   outline: none
   color: blue
   text-decoration: none
-  -webkit-tap-highlight-color: transparent
-  // transition-property: all
-  // transition-duration: 0.8s
-  // transition-timing-function: ease-in-out
-  // transition-delay: 0.1s
-  &:link
-    color:blue
-  &:visited
-    border-color: blue
-  &:hover
-    color: red
-    fill: red
-  &:active
-    color:green
-
+  -webkit-tap-highlight-color: transparentify(blue)
 p > a
+  -webkit-tap-highlight-color: transparentify(blue)
+  transition-property: all
+  transition-duration: 0.8s
+  transition-timing-function: ease-in-out
+  transition-delay: 0.1s
   border-bottom: .18vmin solid blue
   border-bottom-right-radius: 0.5vmin
   border-bottom-left-radius: 0.5vmin
+  &:link
+    color:blue
+  &:visited
+    border-color:yellow
+  &:hover
+    color:red
+  &:active
+    color:green

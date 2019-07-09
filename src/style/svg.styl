@@ -1,11 +1,24 @@
 @require 'variables'
 svg
-  height: (base-line * 2.33)
-  width: (base-line * 2.33)
+  pointer-events: visible
+  height: (base-line * 2)
+  width: (base-line * 2)
   overflow: auto
   outline:none
+  display: block
   fill: black
-  stroke: blue
-  stroke-width: 1
+  stroke-width: 0
   &:active
     animation-name: button_click
+  @media (prefers-color-scheme: dark)
+    fill: white
+
+svg.working
+  width: base-line * 3.3
+  height: base-line
+  margin: auto
+  animation-name: working
+  animation-timing-function: linear
+  animation-duration: 3.33s
+  animation-delay: 0
+  animation-iteration-count: infinite

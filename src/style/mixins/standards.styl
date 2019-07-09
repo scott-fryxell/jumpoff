@@ -1,14 +1,24 @@
 // @require '../variables'
-
-standard-border($color=currentColor)
+standard-border($color=currentColor, $dark_color=white)
   border: (base-line / 6) solid $color
   border-radius: (base-line / 3)
+  @media (prefers-color-scheme: dark)
+    border-color: $dark_color
 
-standard-button($color=currentColor)
-  color: $color
+standard-button($color=currentColor, $dark_color=white)
   standard-border: $color
-  border-radius: base-line
   padding: (base-line / 2)
-  cursor: pointer
+  border-radius: base-line
+  line-height: 1
+  background-color: inherit
+  vertical-align: middle
+  text-transform: capitalize
   text-align: center
-  font-weight: normal
+  font-weight: 300
+  cursor: pointer
+  color: $color
+  &:disabled
+    color: transparent
+  @media (prefers-color-scheme: dark)
+    color: $dark_color
+    standard-button: $dark_color

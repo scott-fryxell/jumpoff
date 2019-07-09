@@ -14,23 +14,6 @@
 // implementation from:
 //   https://www.smashingmagazine.com/2016/05/fluid-typography/
 
-/* latin-ext */
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');
-  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
-}
-/* latin */
-@font-face {
-  font-family: 'Lato';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lato Regular'), local('Lato-Regular'), url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
-
 // ***************** fluid-typography *****************************************
 html
   font-family: 'Lato'
@@ -43,10 +26,10 @@ html
 @media (prefers-color-scheme: dark)
   html
     background-color: rgb(23, 24, 28)
-    color: rgba(246, 250, 253, 0.69)
+    color: white
 
-p, textarea, input,  blockquote, form, img, menu
-  between: max-width, round(base-line * 25, 3), round(base-line * 25, 3)
+p, textarea:focus, input,  blockquote, form
+  max-width: page-width
 
 // ***************** modular-scale ********************************************
 $h1-max = round(max-modular ** 4 * 1rem, 3) // 2.441
@@ -88,20 +71,21 @@ p
   margin-bottom: base-line
 
 h1,h2,h3,h4,h5,h6
-  letter-spacing: -.04em
-  font-weight: normal
+  letter-spacing: -.05em
+  font-weight: 300
   margin-bottom: base-line
-  line-height: 1em
+  line-height: 1
   // text-transform: capitalize
 h3,h4,h5,h6
   letter-spacing: -.01em
 
+
 // Four baselines high
-h1,h2,h3
+h1,h2,h3,h4
   margin-top: s('calc( (%s - %s) + %s * 2)', base-line, 1em, base-line)
 
 // Three baselines high
-h4,h5
+h5
   margin-top: s('calc( (%s - %s) + %s * 1)', base-line, 1em, base-line)
 
 // Two baselines high
