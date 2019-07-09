@@ -1,6 +1,6 @@
 {
   "name": "jumpoff",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A starting place for building user interfaces",
   "scripts": {
     "serve": "",
@@ -26,6 +26,9 @@
   },
   "homepage": "https://github.com/scott-fryxell/jumpoff#readme",
   "dependencies": {
-    "metalsmith": "^2.3.0"
+    "handlebars": "^4.1.2",
+    "metalsmith": "^2.3.0",
+    "metalsmith-markdown": "^1.2.0",
+    "metalsmith-templates": "^0.7.0"
   }
 }
