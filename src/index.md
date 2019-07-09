@@ -1,3 +1,7 @@
+---
+title: Scott Fryxell
+---
+
 ## Social Networking On The Edge
 March 22nd, 2019
 
