@@ -16,7 +16,7 @@ Metalsmith(__dirname)
   pattern: "**/*.html"
 }))
 .use(serve({
-  port: 9000,
+  port: 8080,
   verbose: true
 }))
 .use(watch({
@@ -26,7 +26,8 @@ Metalsmith(__dirname)
   paths: {
     "${source}/**/*": true,
     "${source}/layouts/**/*": "**/*",
-    "${source}/style/**/*": "**/*"
+    "${source}/style/variables": "**/*",
+    "${source}/style/typography": "**/*"
   }
 }))
 .build(err => {
