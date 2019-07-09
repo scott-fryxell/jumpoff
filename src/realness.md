@@ -1,3 +1,7 @@
+---
+title: Scott Fryxell, Realness.online
+---
+
 # Realness
 January 01 2019
 
