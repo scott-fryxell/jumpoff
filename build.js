@@ -25,7 +25,8 @@ Metalsmith(__dirname)
   livereload: true,
   paths: {
     "${source}/**/*": true,
-    "${source}/layouts/**/*": "**/*"
+    "${source}/layouts/**/*": "**/*",
+    "${source}/style/**/*": "**/*"
   }
 }))
 .build(err => {

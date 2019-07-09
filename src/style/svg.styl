@@ -1,8 +1,8 @@
 @require 'variables'
 svg
   pointer-events: visible
-  height: (base-line * 2)
-  width: (base-line * 2)
+  height: (base-line * 3)
+  width: (base-line * 3)
   overflow: auto
   outline:none
   display: block
@@ -11,7 +11,9 @@ svg
   &:active
     animation-name: button_click
   @media (prefers-color-scheme: dark)
-    fill: white
+    fill: blue
+    stroke: green
+    stroke-width:1
 
 svg.working
   width: base-line * 3.3
