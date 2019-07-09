@@ -20,8 +20,13 @@ Metalsmith(__dirname)
   verbose: true
 }))
 .use(watch({
+  cache: false,
   pattern: '**/*',
-  livereload: true
+  livereload: true,
+  paths: {
+    "${source}/**/*": true,
+    "${source}/layouts/**/*": "**/*"
+  }
 }))
 .build(err => {
   if (err) throw err;
