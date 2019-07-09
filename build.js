@@ -20,7 +20,7 @@ Metalsmith(__dirname)
   verbose: true
 }))
 .use(watch({
-  cache: false,
+  suppressNoFilesError: true,
   pattern: '**/*',
   livereload: true,
   paths: {
