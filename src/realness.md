@@ -1,8 +1,8 @@
 ---
-title: Scott Fryxell, Realness.online
+title: Scott Fryxell built Realness.online
 ---
 
-# Realness
+## Realness
 January 01 2019
 
 It's just, I hate it when rich kids win and everyone just assumes they know better.
