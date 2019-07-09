@@ -3,15 +3,21 @@
   "version": "0.0.3",
   "description": "A starting place for building user interfaces",
   "scripts": {
-    "serve": "harp server ./public",
-    "build": "harp compile ./public --output ~/github/scott-fryxell.github.io"
+    "serve": "",
+    "build": ""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scott-fryxell/jumpoff.git"
   },
   "keywords": [
-    "web", "develelopment", "vue", "stylus", "javascript", "es6", "markdown"
+    "web",
+    "develelopment",
+    "vue",
+    "stylus",
+    "javascript",
+    "es6",
+    "markdown"
   ],
   "author": "Scott Fryxell",
   "license": "GPL-3.0",
@@ -20,6 +26,6 @@
   },
   "homepage": "https://github.com/scott-fryxell/jumpoff#readme",
   "dependencies": {
-    "harp": "^0.29.0"
+    "metalsmith": "^2.3.0"
   }
 }
