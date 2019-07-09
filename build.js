@@ -7,7 +7,7 @@ let Metalsmith = require('metalsmith'),
 
 Metalsmith(__dirname)
 .source('./src')
-.destination('./build')
+.destination('../scott-fryxell.github.io/')
 .use(stylus())
 .use(markdown())
 .use(layouts({
