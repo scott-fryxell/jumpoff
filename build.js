@@ -24,10 +24,7 @@ Metalsmith(__dirname)
   pattern: '**/*',
   livereload: true,
   paths: {
-    "${source}/**/*": true,
-    "${source}/layouts/**/*": "**/*",
-    "${source}/style/variables": "**/*",
-    "${source}/style/typography": "**/*"
+    "${source}/**/*": true
   }
 }))
 .build(err => {
