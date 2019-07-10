@@ -3,10 +3,10 @@ title: Scott Fryxell
 ---
 
 ## [Realness](/realness.html)
-A social network that values you for more than your vanity. Realness is pre-alpha but is online and open source; It's a future better than the social media we have wants to become.
+A social network that values you for more than your vanity. Realness is pre-alpha but is online and open source; It's a better future than the social media we have wants to become.
 
 ## [Consulting](/consulting.html)
-I'm $85 an hour if I come to you. If that burns too much and you still need expert advice I am $20 for a quick visit if you come to me. I will get you through your immediate problem and off again in the right direction. From Idea to the most complex web application, I've been right where you are and I can help you get to where you want to be. I want to help.
+I'm $85 an hour if I come to you. If that burns too much and you still need expert advice I am $20 for a quick visit if you come to me. I will get you through your immediate problem and off again in the right direction. From Idea to the most complex web application, I've been right where you are and I can help you get to where you want to be.
 
 ## [Blog](/blog)
 Where I remind the tech community about it's roots in the counter culture and I think about what the costs are for abondoning our way.
