@@ -10,8 +10,8 @@ With this perspective, I offer authenticity and a highly creative environment fo
 
 I have mentored, hired and built long lasting teams with minimal resources. My soft skills are highly developed and I can connect closely with diverse purpose driven organizations.
 
-I have spent the last 2 years going slow building out an ideal development enviroment most developers long to work in.
+I have spent the last 2 years going slow building out an ideal development environment to build webapplications in.
 
-On my first day with you I can deliver a Industry leading software development enviroment that will keep your current and productive year into the future.
+On my first day with you I can deliver an industry leading software development environment and put and app on your phone that we can begin to R&D your problem immediately. I have dont the hard work and set you up to keep you current and productive years into the future.
 
 <sfryxell@me.com>
