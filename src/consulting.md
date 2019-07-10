@@ -4,7 +4,7 @@ published: March 22nd, 2019
 ---
 
 ## consulting
-I am a full stack web application engineer. The bulk of my career has been spent working with startups.  I have been immersed in software development, the arts, and counterculture for 20 years, and am successful in technology because I execute.
+I am a full stack web application engineer. The bulk of my career has been spent working with startups.  I have been immersed in software development, the arts, and counterculture for 20+ years, and am successful in technology because I execute.
 
 With this perspective, I offer authenticity and a highly creative environment for the people that I work with to explore problems and make decisions. I am looking to work with people who like to focus on elegant solutions executed to the highest possible standards.
 
