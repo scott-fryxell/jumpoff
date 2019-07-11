@@ -1,5 +1,6 @@
 ---
 title: Family Money
+date: 7-10-2019
 ---
 ## Wednesday, July 10th 2019
 

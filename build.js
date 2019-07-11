@@ -1,7 +1,9 @@
 let Metalsmith = require('metalsmith'),
+    stylus     = require('metalsmith-stylus'),
     markdown   = require('metalsmith-markdown'),
+    excerpts   = require('metalsmith-excerpts'),
+    collections = require('metalsmith-collections'),
     layouts    = require('metalsmith-layouts'),
-    stylus     = require('metalsmith-stylus')
     serve      = require('metalsmith-serve'),
     watch      = require('metalsmith-watch');
 
@@ -10,6 +12,14 @@ Metalsmith(__dirname)
 .destination('../scott-fryxell.github.io/')
 .use(stylus())
 .use(markdown())
+.use(excerpts())
+.use(collections({
+  posts: {
+    pattern: 'posts/**.html',
+    sortBy: 'date',
+    reverse: true
+  }
+}))
 .use(layouts({
   default: "layout.hbs",
   directory: "src",
