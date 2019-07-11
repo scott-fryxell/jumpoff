@@ -5,7 +5,7 @@ title: Family Money
 
 I keep running into these development teams without any outsiders onboard. And I can see how it's blinded us to our part in progress's arc. It's like we've forgotten what the essential mix is and destroyed the original intent of disruption.
 
-In the early days we were mostly male and mostly white. but we were also mostly social rejects. No one was fucking me because I was a programmer. You couldn't go to a party and impress a person with your mad emacs foo. The people I shared rooms with were a hell of a lot more connected to what it's like to be a reject, so you couldn't just roll in with your sheltered perspective. You would get checked. Today everyone is so fragile, afraid, offended and isolated; signs of a dying world we created.
+In the early days we were mostly male and mostly white. but we were also mostly social rejects. No one was fucking me because I was a programmer. The people I shared rooms with were a hell of a lot more connected to what it's like to be a reject, so you couldn't just roll in with your sheltered perspective. You would get checked. Today everyone is so fragile, afraid, offended and isolated. We did this for advertisers. We comodified friendships and turned them into popularity contests which looks a lot like something family money would do.
 
 Family money is not bringing disruption to tech; it's financing an attention economy that focuses all eyes on wealth – we already had that. It's not be a rich kid do whatever you want! Here have all this money, disrupt!
 
