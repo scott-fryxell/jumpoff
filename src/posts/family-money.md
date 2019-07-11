@@ -2,7 +2,6 @@
 title: Family Money
 date: 7-10-2019
 ---
-## Wednesday, July 10th 2019
 
 I keep running into these development teams without any outsiders onboard. And I can see how it's blinded us to our part in progress's arc. It's like we've forgotten what the essential mix is and destroyed the original intent of disruption.
 

@@ -1,11 +1,12 @@
-let Metalsmith = require('metalsmith'),
-    stylus     = require('metalsmith-stylus'),
-    markdown   = require('metalsmith-markdown'),
-    excerpts   = require('metalsmith-excerpts'),
+let Metalsmith  = require('metalsmith'),
+    stylus      = require('metalsmith-stylus'),
+    markdown    = require('metalsmith-markdown'),
+    excerpts    = require('metalsmith-excerpts'),
     collections = require('metalsmith-collections'),
-    layouts    = require('metalsmith-layouts'),
-    serve      = require('metalsmith-serve'),
-    watch      = require('metalsmith-watch');
+    layouts     = require('metalsmith-layouts'),
+    partials    = require('metalsmith-discover-partials')
+    serve       = require('metalsmith-serve'),
+    watch       = require('metalsmith-watch');
 
 Metalsmith(__dirname)
 .source('./src')
@@ -20,9 +21,13 @@ Metalsmith(__dirname)
     reverse: true
   }
 }))
+.use(partials({
+  directory: 'src/layouts/partials',
+  pattern: /\.hbs$/
+}))
 .use(layouts({
-  default: "layout.hbs",
-  directory: "src",
+  default: "default.hbs",
+  directory: "src/layouts",
   pattern: "**/*.html"
 }))
 .use(serve({

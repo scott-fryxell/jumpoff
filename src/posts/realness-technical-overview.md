@@ -1,5 +1,5 @@
 ---
-title: Realness a technical overview
+title: Realness, a technical overview
 date: 4-01-2019
 ---
 

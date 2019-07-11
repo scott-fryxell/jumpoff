@@ -1,6 +1,6 @@
 ---
 title: Scott Fryxell Consulting
-published: March 22nd, 2019
+date: March 22nd, 2019
 ---
 
 ## consulting
