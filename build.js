@@ -11,8 +11,8 @@ Metalsmith(__dirname)
 .use(stylus())
 .use(markdown())
 .use(layouts({
-  default: "default.hbs",
-  directory: "src/layouts",
+  default: "layout.hbs",
+  directory: "src",
   pattern: "**/*.html"
 }))
 .use(serve({
