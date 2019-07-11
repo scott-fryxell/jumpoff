@@ -1,15 +1,22 @@
 ---
-title: Scott Fryxell's blog
+title: Family Money
 ---
+## Wednesday, July 10th 2019
 
-My most recent technical project, Realness.online, is a local events-based social network. Realness lets you socialize without having to worry about the software manipulating your vanity. User information is stored on the device, saving only posts and a simple profile on the network. Secure by design, It is also serverless, responsive, and progressive. Realness is designed to be launched from the home screen and runs as fast as a native application. Realness has no revenue share obligations, also by design.
+I keep running into these development teams without any outsiders onboard. And I can see how it's blinded us to our part in progress's arc. It's like we've forgotten what the essential mix is and destroyed the original intent of disruption.
 
-Data is described in semantic HTML and objects are brought into javascript via [Item.js](https://github.com/scott-fryxell/realness/blob/master/src/modules/Item.js). It is based on the [microdata](https://www.w3.org/TR/microdata/) format.
+In the early days we were mostly male and mostly white. but we were also mostly social rejects. No one was fucking me because I was a programmer. You couldn't go to a party and impress a person with your mad emacs foo. The people I shared rooms with were a hell of a lot more connected to what it's like to be a reject, so you couldn't just roll in with your sheltered perspective. You would get checked. Today everyone is so fragile, afraid, offended and isolated; signs of a dying world we created.
 
-I use Item.js to populate VUE objects in the UI and [Storage.js](https://github.com/scott-fryxell/realness/blob/master/src/modules/Storage.js) to save them to local storage. Item.js and Storage.js together are my answer to flux and Vuex. Javascript functions as a controller preserving MVC pattern. All Models are described in HTML.
+Family money is not bringing disruption to tech; it's financing an attention economy that focuses all eyes on wealth – we already had that. It's not be a rich kid do whatever you want! Here have all this money, disrupt!
 
-Activity, Posts, Profile, Avatar, Relationships, Events, Posters have all been successfully modeled using Storage.js and Item.js and I haven't been experiencing the pain that most Single Page Apps experience as their applications grow more complex.
+It's be in the real world see how it's fucked then do whatever you can to work it out. Because that's what you want.
 
-Realness doesn't store relationship information on the server, so a person's feed is created on the client. [Feed.js](https://github.com/scott-fryxell/realness/blob/master/src/views/Feed.vue) makes heavy use of HTTP2 streams. I am able to pull potentially hundreds of files into the client as one query. It's an interesting algorithm that loads up to date profile and post information from a simple list of phone numbers. Feed is performant  (sorting the feed by date is currently averaging 5 milliseconds) and has plenty of headroom for optimization as the user base grows.
+We have a nasty habit of telling the sheltered people they should lead. Teams have become so weighted in family money that the term disruption has mutated into "What do my friends need?" and it stops being useful the farther our worlds are apart.
 
-[Typography.styl](https://github.com/scott-fryxell/realness/blob/master/src/style/typography.styl) is the UI foundation for realness. It sets up a baseline look and feel that allows me to add UI elements and trust they will align in a consistent and natural way. Text is readable and flows well: there is heavy use of a [mixin](https://github.com/scott-fryxell/realness/blob/master/src/style/mixins/between.styl) I wrote that uses the slope-intercept form to scale UI elements to the display size (font size, line length, form inputs, images, menus etc).
+Every time I hear some tech genius talk about how he got his first computer when he was seven and was writing Basic apps by eight I want to scream family money and charge at him with a spike. It's ugly who you've become bro. Nobody is proud of you.
+
+I live in the real world and I see it. The real worlds is selling my home right now for 3.3 million.
+
+None of you knows disruption. You have all forgotten that anyone who can type can fight you.
+
+If you don't have someone in your universe who talks to you to like you just read then you are flying your organization blind.
