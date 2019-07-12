@@ -1,0 +1,50 @@
+@require 'variables'
+section#feed
+  position: relative
+  max-width: page-width
+  display: flex
+  flex-direction: column
+  & > header > svg
+    fill: transparent
+  & > nav
+    display: none
+  & > hgroup > h1
+    margin-bottom: 0
+  & > svg.working
+    order: 1
+    margin: base-line auto
+  & > section
+    & > header > h4
+      font-weight: 200
+    &:first-of-type > header > h4
+      margin-top: base-line
+    & > article
+      overflow: hidden
+      margin-bottom: base-line
+      &:last-of-type
+        margin-bottom: 0
+      & > hgroup
+        font-weight: 200
+        & > span
+        & > time
+          display: inline-block
+          vertical-align: center
+        & > span
+          color: black
+        & > time
+          color: black
+          margin-left: (base-line / 6)
+      & > blockquote
+        margin-bottom: base-line
+        &:last-of-type
+          margin-bottom: 0
+      & > a > svg
+        height: (base-line * 2)
+        width: (base-line * 2)
+        float: left
+        margin-right: base-line
+        shape-outside: circle()
+        clip-path: circle(44%)
+        fill: blue
+        stroke: lighten(blue, 33%)
+        stroke-width:2px
