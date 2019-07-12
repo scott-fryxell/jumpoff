@@ -11,7 +11,7 @@ With this perspective, I offer authenticity and a highly creative environment fo
 
 I have mentored, hired and built long lasting teams with minimal resources. My soft skills are highly developed and I can connect closely with diverse purpose driven organizations.
 
-On my first day with you I can deliver an industry leading software development environment and put an app on your phone so that we can begin to R&D your problem immediately. I can iterate to your phone almost immediatly and we can build your app together in real time. I can do all this while respecting current best practices.
+On my first day with you I can deliver an industry leading software development environment and put an app on your phone so that we can begin to R&D your problem immediately. I can iterate to your phone with almost no effort. We will build your app together in real time.
 
 I have done the hard work and have the experience to get you up and running quickly and keep you current and productive years into the future.
 
