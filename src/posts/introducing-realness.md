@@ -2,7 +2,6 @@
 title: Introducing realness
 date: 1-01-2019
 ---
-
 The other social networks are designed to manipulate users into maximum engagement. They take manipulation as gospel. Their logic is as follows: We are a business that makes money from advertising. Advertising is manipulation. We're just doing what our users accept is happening.
 
 That's how you justify yourself into a nice home and a sick Audi.

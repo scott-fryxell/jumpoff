@@ -2,6 +2,7 @@
 title: Realness, a technical overview
 date: 4-01-2019
 ---
+I publish my My [feed](/feed.html) here so you can see what It's like and also keep track of what each release is. With this post I want to give a technical overview of how I'm building realness.
 
 Realness.online, is a local events-based social network. Realness lets you socialize without having to worry about the software manipulating your vanity. User information is stored on the device, saving only posts and a simple profile on the network. Secure by design, It is also serverless, responsive, and progressive. Realness is designed to be launched from the home screen and runs as fast as a native application. Realness has no revenue share obligations, also by design.
 
