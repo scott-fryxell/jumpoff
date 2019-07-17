@@ -8,11 +8,27 @@ let Metalsmith  = require('metalsmith'),
     serve       = require('metalsmith-serve'),
     watch       = require('metalsmith-watch');
 
+const marked = require('marked');
+const markdown_renderer = new marked.Renderer()
+
+markdown_renderer.image = function (href, title, text) {
+return `
+<figure>
+  <img src="${href}" alt="${title}" title="${title}" />
+  <figcaption>
+    <p>${text}</p>
+  </figcaption>
+</figure>`;
+};
+
 Metalsmith(__dirname)
 .source('./src')
 .destination('../scott-fryxell.github.io/')
 .use(stylus())
-.use(markdown())
+.use(markdown({
+  smartLists: true,
+  renderer: markdown_renderer,
+}))
 .use(excerpts())
 .use(collections({
   posts: {
@@ -28,7 +44,10 @@ Metalsmith(__dirname)
 .use(layouts({
   default: "default.hbs",
   directory: "src/layouts",
-  pattern: "**/*.html"
+  pattern: "**/*.html",
+  engineOptions: {
+    "cache": false
+  }
 }))
 .use(serve({
   port: 8080,
