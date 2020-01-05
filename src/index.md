@@ -7,7 +7,7 @@ A social network that values you for more than your vanity. Realness is pre-alph
 Feel free to [checkout my feed](/feed.html) and see what I'm talking about.
 
 ## [Consulting](/consulting.html)
-I'm $85 an hour if I come to you. If that burns too much and you still need expert advice I am $20 for a quick visit if you come to me. I will get you through your immediate problem and off again in the right direction. From Idea to complex web application, I've been right where you are and I can help you get to where you want to be.
+I have over twenty years of full stack web application development. From idea to complex web application, I provide perspective, guidance, and software development services. I will get you through your immediate problem and off in the right direction. I am $50 an hour.
 
 ## [Blog](/blog.html)
-Where I remind the tech community about it's roots in the counter culture and I think about what the costs are for abondoning our way.
+Where I remind the tech community about its roots in the counter culture and I think about what the costs are for abandoning our way.

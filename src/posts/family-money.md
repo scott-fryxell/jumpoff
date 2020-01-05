@@ -3,20 +3,20 @@ title: Family Money
 date: 7-10-2019
 ---
 
-I keep running into these development teams without any outsiders onboard. And I can see how it's blinded us to our part in progress's arc. It's like we've forgotten what the essential mix is and destroyed the original intent of disruption.
+An abundance of resources does not guarantee the best solution. I've seen this over and over again meeting development teams predominantly from family money and without any outsiders onboard. I see how this trend has has hindered tech's role in the arc of progress. It's like we've forgotten what the essential mix is and destroyed the original intent of disruption.
 
-In the early days we were mostly male and mostly white. but we were also mostly social rejects. No one was fucking me because I was a programmer. The people I shared rooms with were a hell of a lot more connected to what it's like to be a reject, so you couldn't just roll in with your sheltered perspective. You would get checked. Today everyone is so fragile, afraid, offended and isolated. We did this for advertisers. We commodified friendships and turned them into popularity contests which looks a lot like something family money would do.
+In the early days, tech was mostly male and mostly white. But we were also mostly social rejects from a diverse range of class. The people I shared rooms with were a hell of a lot more connected to the whole picture, so you couldn't roll in with a sheltered perspective. You would get checked. 
 
-Family money is not bringing disruption to tech; it's financing an attention economy that focuses all eyes on wealth – we already had that. It's not be a rich kid do whatever you want! Here have all this money, disrupt!
+Tech has bowed to advertisers. We commodified friendships and turned them into popularity contests, which looks a lot like something family money would do. This has not brought disruption to tech; it's financing an attention economy that focuses all eyes on wealth – nothing new. 
 
-It's be in the real world see how it's fucked then do whatever you can to work it out. Because that's what you want.
+Be in the real world. If you can't, bring in people from the real world. See or listen to how it's fucked then do whatever you can to work it out. Do it because that is what you want.
 
-We have a nasty habit of telling the sheltered people they should lead. Teams have become so weighted in family money that the term disruption has mutated into "What do my friends need?" and it stops being useful the farther our worlds are apart.
+We have a nasty habit of telling sheltered people they should lead (Be a rich kid, do whatever you want! Here have all this money, disrupt!). Teams have become so weighted in family money that the term disruption has mutated into, "What do my friends need?" and this way of thinking becomes less useful the farther our worlds are apart.
 
-Every time I hear some tech genius talk about how he got his first computer when he was seven and was writing Basic apps by eight I want to scream family money and charge at him with a spike. It's ugly who you've become bro. Nobody is proud of you.
+Every team needs someone who can bring its purpose back to earth; otherwise you are flying your organization blind.
 
-I live in the real world and I see it. The real worlds is selling my home for 3.3 million.
 
-None of you knows disruption. You have all forgotten that anyone who can type can fight you.
 
-You need someone in your universe who talks to you to like you just read otherwise – you are flying your organization blind.
+
+[Every time I hear some tech genius talk about how he got his first computer when he was seven and was writing basic apps by eight I want to scream family money and charge at him with a spike. It's ugly who you've become and no one but your mom is proud of you.]
+
