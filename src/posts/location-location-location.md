@@ -3,6 +3,8 @@ title: Location! Location! Location!
 date: 2019-08-10
 ---
 
+More thinking about realness.
+
 ## Commodifying relationships is unhealthy
 
 We believe that knowing our customers relationships is too great a power for any business to have.

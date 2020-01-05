@@ -3,8 +3,6 @@ title: It's been a year
 date: 2020-01-05
 ---
 
-## It's time for people to use realness
-
 Realness is far enough along now for beta users. I want to announce realness to technical people who can help me evaluate it's effectiveness.
 
 What I need most at first are people to try out nerds.realness.online and see what they think. I have yet to set that url up.
