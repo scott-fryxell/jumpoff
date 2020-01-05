@@ -1,6 +1,6 @@
 ---
 title: Realness, a technical overview
-date: 4-01-2019
+date: 2019-04-01
 ---
 I publish my My [feed](/feed.html) here so you can see what It's like and also keep track of what each release is. With this post I want to give a technical overview of how I'm building realness.
 

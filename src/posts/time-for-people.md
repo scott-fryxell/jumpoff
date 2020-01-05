@@ -1,9 +1,9 @@
 ---
-title: Introducing realness
-date: 1-05-2020
+title: It's been a year
+date: 2020-01-05
 ---
 
-# It's time for people to use realness
+## It's time for people to use realness
 
 Realness is far enough along now for beta users. I want to announce realness to technical people who can help me evaluate it's effectiveness.
 
