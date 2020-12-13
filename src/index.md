@@ -1,7 +1,6 @@
 ---
 title: Scott Fryxell
 ---
-## [Resume](/resume.html)
 
 ## [Realness](/realness.html)
 A social network that values you for more than your vanity. Realness is pre-alpha but is [online](https://realness.online) and [open source](https://github.com/realness-online/web).
